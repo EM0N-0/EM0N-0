@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to EM0N profile &nbsp;
+  &nbsp; WELCOME TO EM0N PROFILE &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
@@ -88,7 +88,7 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Instagram](https://img.shields.io/badge/IG-%40Mehedi.Emon.12-red?style=for-the-badge&logo=instagram)](https://https://www.instagram.com/mehedi.hasan.502/)
+[![Instagram](https://img.shields.io/badge/IG-%40Mehedi.Emon.12-red?style=for-the-badge&logo=instagram)](https://https://www.instagram.com/mehedi.hasan.502)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/https://mr.EM0N.502)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/mr.EM0N.502)
 [![Github](https://img.shields.io/badge/EM0N-0?style=for-the-badge&logo=github)](https://github.com/EM0N-0)
