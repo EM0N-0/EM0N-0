@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mehedi+Hasan+Emon;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+Love U All)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mehedi+Hasan+Emon;+It's+Not+A+Just+Name+Bro;It's+A+Brand;)](https://git.io/typing-svg)
 
 </p>
 
@@ -78,7 +78,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👭 ʙʀᴏᴛʜᴇʀ:- Sagor(Devid Vau)
+- 👭 ʙʀᴏᴛʜᴇʀ:- [Sagor-BCZ](https://github.com/Sagor-BCZ)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -88,7 +88,7 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Instagram](https://img.shields.io/badge/IG-%40Mehedi.Emon.12-red?style=for-the-badge&logo=instagram)](https://https://www.instagram.com/mehedi.hasan.502)
+[![Instagram](https://img.shields.io/badge/IG-%40Mehedi.Emon.12-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mehedi.hasan.502)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/https://mr.EM0N.502)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/mr.EM0N.502)
 [![Github](https://img.shields.io/badge/EM0N-0?style=for-the-badge&logo=github)](https://github.com/EM0N-0)
