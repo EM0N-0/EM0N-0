@@ -8,13 +8,13 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream;+I+Will+Be+A+Great+Programmer;+One+Day+Inshallah;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream+Is;+I+Will+Be+A+Great+Programmer;+One+Day+Inshallah;)](https://git.io/typing-svg)
 
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h2 align="center">🤲Allah is one and unique🕋. 🌺La ilaha illallahu muhammadur rasulullah.❣️</h2>
+<h2 align="center">🤲Allah is one and unique.La ilaha illallahu muhammadur rasulullah.❣️</h2>
 
 <p align="EM0N-0"> <img src="https://komarev.com/ghpvc/?username=EM0N-0-1&label=Profile%20views&color=eb4d3d&style=flat-square" alt="EM0N-0" /> </p>
 </i></b></h3>
