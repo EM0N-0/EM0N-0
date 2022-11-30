@@ -2,19 +2,19 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME TO EM0N PROFILE &nbsp;
+  &nbsp; WELCOME TO MY PROFILE &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mehedi+Hasan+Emon;+It's+Not+A+Just+Name+Bro;It's+A+Brand;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream;+I+Will+Be+A+Great+Programmer;+One+Day+Inshallah;)](https://git.io/typing-svg)
 
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h2 align="center">We all try to pray. Because in prayer comes all kinds of peace. Prayer means peace.❣️</h2>
+<h2 align="center">🤲Allah is one and unique🕋. 🌺La ilaha illallahu muhammadur rasulullah.❣️</h2>
 
 <p align="EM0N-0"> <img src="https://komarev.com/ghpvc/?username=EM0N-0-1&label=Profile%20views&color=eb4d3d&style=flat-square" alt="EM0N-0" /> </p>
 </i></b></h3>
@@ -25,7 +25,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😚 ɴᴀᴍᴇ:- мєнє∂ι нαѕαη ємση
+- 🔥 ɴᴀᴍᴇ:- мєнє∂ι нαѕαη ємση
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -33,19 +33,19 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ☺️ ʀᴇʟᴀᴛɪᴏɴsʜɪᴘ:- Ｓｉｎｇｌｅ
+- 😅 ʀᴇʟᴀᴛɪᴏɴsʜɪᴘ:- Ｓｉｎｇｌｅ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--🤫 ᴘʀᴏɢʀᴀᴍᴍᴇɪɴɢ ʟᴀɴɢᴜᴀɢᴇ:- ᴘʏᴛʜᴏɴ & ᴘʜᴘ ᴏʀ ᴊᴀᴠᴀ
+-😚 ᴘʀᴏɢʀᴀᴍᴍᴇɪɴɢ ʟᴀɴɢᴜᴀɢᴇ:- ᴘʏᴛʜᴏɴ & ᴘʜᴘ ᴏʀ ᴊᴀᴠᴀ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--😻 ғᴀᴠᴏᴜʀɪᴛᴇ ʙᴏᴏᴋ:- Aʟ Qᴜʀᴀɴ
+-😇 ғᴀᴠᴏᴜʀɪᴛᴇ ʙᴏᴏᴋ:- Aʟ Qᴜʀᴀɴ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😴 𝐀𝐆𝐄:- 18
+- ☺️ 𝐀𝐆𝐄:- 18
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -57,7 +57,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🌚 ɪɴsʟɪʀᴀᴛɪᴏɴ:- ᴍʏsᴇʟғ
+- 💙 ɪɴsʟɪʀᴀᴛɪᴏɴ:- ᴍʏsᴇʟғ
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -65,15 +65,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😎 ғᴀᴄᴇʙᴏᴏᴋ:- [𝙈𝙙 𝙈𝙞𝙯𝙖𝙣](https://www.facebook.com/mr.EM0N.502)
+- 🤗 ғᴀᴄᴇʙᴏᴏᴋ:- [𝙈𝙙 𝙈𝙞𝙯𝙖𝙣](https://www.facebook.com/mr.EM0N.502)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😇 ғᴀᴄᴇʙᴏᴏᴋ ᴘᴀɢᴇ:- [Termux Tools-502](https://www.facebook.com/Termux-Tools-502-100961239025559/)
+- 😏 ғᴀᴄᴇʙᴏᴏᴋ ᴘᴀɢᴇ:- [Termux Tools-502](https://www.facebook.com/Termux-Tools-502-100961239025559/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🌍ɢɪᴛʜᴜʙ:- [EM0N-0](https://github.com/EM0N-0)
+- 😋ɢɪᴛʜᴜʙ:- [EM0N-0](https://github.com/EM0N-0)
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -82,7 +82,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😒 Heard a funny story.  In fact, first you have to have fun and then you have to listen.
+- 😘 My Story:- Since my birth I have been wandering in the past.
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
