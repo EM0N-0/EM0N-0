@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream+Is;+I+Will+Be+A+Great+Programmer;+One+Day+Inshallah.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream+Is;+I+Will+Be+A+Programmer;+One+Day+Inshallah.;)](https://git.io/typing-svg)
 
 </p>
 
