@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-blue?colorA=%FFFC00&colorB=%0055FF&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%FFFC00&colorB=%0055FF&style=flat-square">
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF00C2&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream+is;+I+Will+Be+A+Programmer;+One+Day+Inshallah;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00FF1E&size=27&lines=Assalamu+Alaikum;+I+am+Mehedi+Hasan+Emon;+My+Dream+is;+I+Will+Be+A+Programmer;+One+Day+Inshallah;)](https://git.io/typing-svg)
 
 </p>
 
